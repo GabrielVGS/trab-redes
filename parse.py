@@ -20,5 +20,6 @@ def open_file(file_path: list[str]):
             json.dump(json_correct,f,indent=2)
     ...
     
-    
-open_file(MEDICOES)
+
+if __name__ == "__main__":
+    open_file(MEDICOES)

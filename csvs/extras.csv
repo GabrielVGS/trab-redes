@@ -1,6 +1,6 @@
-País,Probe,Teste
-France,Probe 32016,funciona
-Japan,Probe 1009516,funciona
-Cameroon,Probe 7050,funciona
-United States,Probe 50941,funciona
-Guam (USA),Probe 6923,funciona
+country,ping
+France,32016,1
+Japan 1009516,1
+Cameroon 7050,1
+United States 50941,1
+Guam (USA) 6923,1

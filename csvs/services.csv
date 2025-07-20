@@ -1,4 +1,4 @@
-Serviço,IPv4,IPv6
+service,IPv4,IPv6
 pypi.org,x,x
 npmjs.com,x,x
 crates.io,x,x

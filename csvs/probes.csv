@@ -1,17 +1,17 @@
-País,Probe,Teste
-Kenya,Probe 6882,funciona
-South Africa,Probe 7404,funciona
-Morocco,Probe 1006594,funciona
-Chile,Probe 30100,funciona
-Mexico,Probe 6420,funciona
-Canada,Probe 52002,funciona
-Taiwan,Probe 61304,funciona
-Philippines,Probe 65977,funciona
-India,Probe 1010721,funciona
-Finland,Probe 10638,não responde
-Ireland,Probe 1000929,funciona
-Bulgaria,Probe 1010523,funciona
-Australia,Probe 1003179,funciona
-New Zealand,Probe 1009345,funciona
-New Caledonia,Probe 7018,funciona
-Poland,Probe 1009548,funciona
+country,probe_id,ping
+Kenya,6882,1
+South Africa,7404,1
+Morocco,1006594,1
+Chile,30100,1
+Mexico,6420,1
+Canada,52002,1
+Taiwan,61304,1
+Philippines,65977,1
+India,1010721,1
+Finland,10638,0
+Ireland,1000929,1
+Bulgaria,1010523,1
+Australia,1003179,1
+New Zealand,1009345,1
+New Caledonia,7018,1
+Poland,1009548,1
