@@ -1,7 +1,7 @@
 import json
 from glob import glob
 
-MEDICOES = sorted(glob("medicoes/*.json"))
+MEDICOES = sorted(glob("medicoes2/*.json"))
 print(MEDICOES)
 
 

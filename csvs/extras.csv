@@ -1,6 +1,6 @@
-country,ping
+country,probe_id,ping
 France,32016,1
-Japan 1009516,1
-Cameroon 7050,1
-United States 50941,1
-Guam (USA) 6923,1
+Japan,1009516,1
+Cameroon,7050,1
+United States,50941,1
+Guam (USA),6923,1

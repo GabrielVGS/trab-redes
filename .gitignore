@@ -6,5 +6,6 @@ dist/
 wheels/
 *.egg-info
 medicoes/
+medicoes2/
 # Virtual environments
 .venv
